@@ -1,0 +1,6 @@
+Ca_0001_Tg_2.full.g.vcf
+Ca_0002_Tg_1.full.g.vcf
+Ca_0003_Tg_3.full.g.vcf
+Ca_0005_Tg_1A.full.g.vcf
+Ca_0006_Tg_4.full.g.vcf
+Ca_0008_Tg_7.full.g.vcf
